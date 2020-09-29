@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "connectax-cli/cmd"
+import "github.com/lxndralbert/connectax-cli/cmd"
 
 func main() {
 	cmd.Execute()
